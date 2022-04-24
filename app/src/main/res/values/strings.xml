@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBooks</string>
+    <string name="back_button">Back Button</string>
+    <string name="bookList">Book List</string>
+    <string name="bookDetails">Book Details</string>
+    <string name="title_book_list">Explore thousands of \nbooks in a go</string>
+    <string name="search_title">Search For Books</string>
+    <string name="famous_books">Famous Books</string>
+</resources>
